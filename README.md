@@ -63,3 +63,9 @@ HTML / CSS / JavaScript Files
 ## Outcome
 
 Successfully deployed a static portfolio website on AWS using S3 and CloudFront.
+
+## Live Website
+
+Visit the deployed website:
+
+https://dri7lzv6dbpz1.cloudfront.net
